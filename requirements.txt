@@ -1,0 +1,9 @@
+numpy==1.24.1
+transformer_lens
+plotly
+nbformat
+circuitsvis
+peft
+scikit-learn
+seaborn
+kaleido
